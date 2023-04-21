@@ -6,8 +6,8 @@ The analysis os the election show that:
 Using Python and reading in the CSV election data set we determined out of the 369,711 votes some patterns and analysis.
 We created a python script and would read and write data, performed calculations on the counts, and used loops and conditional statements to report our analysis.
 
-There were 369,711 votes cast in the election.
-The three candidates were:
+*There were 369,711 votes cast in the election.
+*The three candidates were:
 Charles Casper Stockham
 Diana DeGette
 Raymon Anthony Doane
